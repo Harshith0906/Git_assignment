@@ -1,0 +1,23 @@
+body{ 
+    background-color: #e9edd6;
+    margin-left: 6%;
+    margin-right: 6%;
+ }
+ span
+ {
+    color: #cd9583;
+ }
+ .para
+ {
+    
+    width: 800px;
+    margin-bottom: 10em;
+ }
+ 
+ img{
+   display: inline-block;
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 8px;
+ }
